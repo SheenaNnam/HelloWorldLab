@@ -1,1 +1,1 @@
-
+This app displays a layout containing a Large Text header saying "Hello World", an input textBox, and a button. When the user inputs their name into the input text box and clicks the button below, the large text header then displays "Hi, [NAME]"
