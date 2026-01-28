@@ -1,1 +1,1 @@
-In this web app, there is a layout that displays a large text view that defaults to "Hello World." Below this is a textBox/input where you can enter your name, and a button below it. Once your name has been entered, you can click the button below, and it will change the "Hello World" text to "Hi, [NAME]!"
+
